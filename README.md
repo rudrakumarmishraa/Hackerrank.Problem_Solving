@@ -1,17 +1,17 @@
 # Hackerrank.Problem_Solving
 Contains solutions of Hackkerank Problem Solving Challanges.
 
-Warmup
-Implementation
-Strings
-Sorting
-Search
-Graph Theory
-Greedy
-Dynamic Programming
-Constructive Algorithms
-Bit Manipulation
-Recursion
-Game Theory
-NP Complete
+Warmup<br>
+Implementation<br>
+Strings<br>
+Sorting<br>
+Search<br>
+Graph Theory<br>
+Greedy<br>
+Dynamic Programming<br>
+Constructive Algorithms<br>
+Bit Manipulation<br>
+Recursion<br>
+Game Theory<br>
+NP Complete<br>
 Debugging
